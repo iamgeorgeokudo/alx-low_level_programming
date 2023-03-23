@@ -1,4 +1,7 @@
 #include "main.h"
+/*
+ *int main print _putchar
+ */
 int main(void)
 	{
 	_putchar('_');
